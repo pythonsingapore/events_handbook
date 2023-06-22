@@ -9,7 +9,7 @@ This is the handbook for Python User Group Singapore on how we run our events.
 
 ## Pre-conference
 
-- [ ]  **Update** **& Prepare** **Prospectus** - ****The prospectus is a document for asking potential sponsors. The prospectus provides a rough gauge of our community and the sponsorship tiers they can contribute as a sponsor.
+- [ ]  **Update** **& Prepare** **Prospectus** - The prospectus is a document for asking potential sponsors. The prospectus provides a rough gauge of our community and the sponsorship tiers they can contribute as a sponsor.
     - [ ]  **Discuss Sponsorship Tiers & Slots** - This is where the organisers will discuss sponsorship tiers and the slots for each tier. Once this is done, this will be reflected in the prospectus or the sponsorship email to allow sponsors to select their sponsorship tiers. The organisers will also discuss the number of **slots** for each tier and the perks for sponsorship tiers.
         - [ ]  **Platinum $10k -** Sponsors booth, x amount of free tickets of general tickets that includes keynote speakers, workshops, buffet. After-party networking dinner for sponsors, keynote speakers and organizing community.
         - [ ]  **Gold $5k** - Sponsors booth, x amount of free tickets of general tickets that includes keynote speakers & workshops and buffet. After-party networking dinner for sponsors, keynote speakers and organizing community.
